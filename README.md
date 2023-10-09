@@ -23,3 +23,4 @@ To view the interactive map and explore the earthquake data, open the HTML file 
 
 Max Fishman
 
+![image](https://github.com/TechMax14/leaflet-challenge/assets/11029446/fe84bb05-1805-47a8-802f-47cebafe42b1)
